@@ -1,4 +1,4 @@
-HOST-SUFFIX,mega.nz
-HOST-SUFFIX,mega.io
-HOST,www.yijingying.com
-HOST,g.api.mega.co.nz
+HOST-SUFFIX,mega.nz,日本
+HOST-SUFFIX,mega.io,日本
+HOST,www.yijingying.com,日本
+HOST,g.api.mega.co.nz,日本
