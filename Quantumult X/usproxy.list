@@ -1,6 +1,6 @@
-HOST-SUFFIX,stripe.com,美国
-HOST-SUFFIX,stripecdn.com,美国
-HOST-SUFFIX,stripecdn.network,美国
-HOST-SUFFIX,whatsapp.com,美国
-HOST-SUFFIX,whatsapp.net,美国
-HOST-SUFFIX,chinadsl.net,美国
+HOST-SUFFIX,stripe.com,自定义美国
+HOST-SUFFIX,stripecdn.com,自定义美国
+HOST-SUFFIX,stripecdn.network,自定义美国
+HOST-SUFFIX,whatsapp.com,自定义美国
+HOST-SUFFIX,whatsapp.net,自定义美国
+HOST-SUFFIX,chinadsl.net,自定义美国
