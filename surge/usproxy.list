@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,stripecdn.network
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,chinadsl.net
+DOMAIN,q.stripe.com
+DOMAIN,r.stripe.com
