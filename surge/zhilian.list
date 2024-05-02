@@ -7,9 +7,18 @@ DOMAIN-SUFFIX,vag-flashinfo.de
 DOMAIN,www.right.com.cn
 DOMAIN,www.7b2.com
 DOMAIN-SUFFIX,tencent.com
+# 宽带技术
 DOMAIN-SUFFIX,chinadsl.net
+# 知乎
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+IP-CIDR,103.41.167.226/32,no-resolve
+IP-CIDR,103.41.167.234/31,no-resolve
+IP-CIDR,103.41.167.236/32,no-resolve
+IP-CIDR,118.89.204.198/32,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 
-
+#国外网站需直连
 # 亚马逊开始
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.cn
