@@ -1,1 +1,8 @@
+# 常规网站
 
+#国外汽车网站
+DOMAIN-SUFFIX,autogmt.com
+DOMAIN,cartechnology.co.uk
+
+#stripe
+DOMAIN-KEYWORD,stripe
