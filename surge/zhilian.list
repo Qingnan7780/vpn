@@ -3,9 +3,11 @@ DOMAIN-SUFFIX,910car.com
 # 远景论坛
 DOMAIN-SUFFIX,pcbeta.com
 # 恩山论坛
-DOMAIN,www.right.com.cn
+DOMAIN-SUFFIX,right.com.cn
 # B2PRO主题
-DOMAIN,www.7b2.com
+DOMAIN-SUFFIX,7b2.com
+# hostloc论坛
+DOMAIN-SUFFIX,hostloc.com
 # 腾讯
 DOMAIN-SUFFIX,1700.cn
 DOMAIN-SUFFIX,17roco.com
