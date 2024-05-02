@@ -1045,9 +1045,22 @@ IP-CIDR6,2400:b200::/32,no-resolve
 PROCESS-NAME,com.taobao.taobao
 # 京东
 DOMAIN-SUFFIX,jd.com
+# 头条+抖音
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
 # wise
 DOMAIN-SUFFIX,wise.com
-
 
 
 # 国外网站需直连
