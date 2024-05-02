@@ -1,8 +1,14 @@
 # 常规网站
 
-#国外汽车网站
+# 国外汽车网站
 DOMAIN-SUFFIX,autogmt.com
 DOMAIN,cartechnology.co.uk
 
-#stripe
+# stripe
 DOMAIN-KEYWORD,stripe
+
+# instagram
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-KEYWORD,instagram
