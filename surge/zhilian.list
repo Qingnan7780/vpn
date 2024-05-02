@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,7b2.com
 # hostloc论坛
 DOMAIN-SUFFIX,hostloc.com
+# nodeseek论坛
+DOMAIN-SUFFIX,nodeseek.com
 # 腾讯
 DOMAIN-SUFFIX,1700.cn
 DOMAIN-SUFFIX,17roco.com
