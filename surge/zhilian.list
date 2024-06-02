@@ -1365,3 +1365,12 @@ DOMAIN,mibsolution.one
 DOMAIN-SUFFIX,vag-flashinfo.de
 # 固件下载
 DOMAIN-SUFFIX,vagflashfile.com
+
+#邮政银行
+DOMAIN,login-service.mobile-bank.psbc.com
+DOMAIN,mobile-bank.psbc.com
+
+#中国农业银行
+DOMAIN,www.abchina.com.cn
+#建行生活
+DOMAIN,yunbusiness.ccb.com
