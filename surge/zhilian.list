@@ -1365,6 +1365,8 @@ DOMAIN,mibsolution.one
 DOMAIN-SUFFIX,vag-flashinfo.de
 # 固件下载
 DOMAIN-SUFFIX,vagflashfile.com
+# 汽车论坛
+DOMAIN-SUFFIX,chiptuner.ru
 
 #邮政银行
 DOMAIN,login-service.mobile-bank.psbc.com
