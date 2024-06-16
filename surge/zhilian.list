@@ -1376,3 +1376,5 @@ DOMAIN,mobile-bank.psbc.com
 DOMAIN,www.abchina.com.cn
 #建行生活
 DOMAIN,yunbusiness.ccb.com
+#子比
+DOMAIN-SUFFIX,zib2.cn
