@@ -42,3 +42,6 @@ DOMAIN-SUFFIX,dockerhub.com
 # Surge
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,vercel.app
+
+#去水印模型
+DOMAIN-SUFFIX,vercel.app
