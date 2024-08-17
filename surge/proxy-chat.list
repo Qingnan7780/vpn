@@ -43,11 +43,11 @@ PROCESS-NAME,telegram-desktop
 OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
 
 # whatsapp
-DOMAIN,graph.facebook.com
-DOMAIN-SUFFIX,bintray.com
-DOMAIN-SUFFIX,whatsapp.biz
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
+DOMAIN,graph.facebook.com,extended-matching
+DOMAIN-SUFFIX,bintray.com,extended-matching
+DOMAIN-SUFFIX,whatsapp.biz,extended-matching
+DOMAIN-SUFFIX,whatsapp.com,extended-matching
+DOMAIN-SUFFIX,whatsapp.net,extended-matching
 DOMAIN-KEYWORD,whatsapp
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,158.85.46.128/27,no-resolve
