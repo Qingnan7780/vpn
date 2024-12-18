@@ -45,3 +45,6 @@ DOMAIN-SUFFIX,vercel.app
 
 #去水印模型
 DOMAIN,lama-cleaner-docs.vercel.app
+
+#hostloc论坛
+DOMAIN-SUFFIX,hostloc.com
