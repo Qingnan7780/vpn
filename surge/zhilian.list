@@ -1373,9 +1373,6 @@ DOMAIN-SUFFIX,sun.com
 # crunchbitsVPS
 DOMAIN-SUFFIX,crunchbits.com
 
-# MIB论坛
-DOMAIN,mibsolution.one
-
 # 固件查询
 DOMAIN-SUFFIX,vag-flashinfo.de
 # 固件下载
