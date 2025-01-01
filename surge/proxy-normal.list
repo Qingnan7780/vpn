@@ -51,3 +51,6 @@ DOMAIN-SUFFIX,hostloc.com
 
 # 宽带技术
 DOMAIN-SUFFIX,chinadsl.net
+
+# MIB论坛
+DOMAIN,mibsolution.one
