@@ -20,9 +20,9 @@ DOMAIN-SUFFIX,telegram.org,extended-matching
 DOMAIN-SUFFIX,telegram.space,extended-matching
 DOMAIN-SUFFIX,telegramdownload.com,extended-matching
 DOMAIN-SUFFIX,telesco.pe,extended-matching
-DOMAIN-SUFFIX,tg.dev
-DOMAIN-SUFFIX,tx.me
-DOMAIN-SUFFIX,usercontent.dev
+DOMAIN-SUFFIX,tg.dev,extended-matching
+DOMAIN-SUFFIX,tx.me,extended-matching
+DOMAIN-SUFFIX,usercontent.dev,extended-matching
 DOMAIN-KEYWORD,nicegram
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
