@@ -1391,7 +1391,7 @@ DOMAIN,yunbusiness.ccb.com
 DOMAIN-SUFFIX,zib2.cn
 #Cloudflare
 DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,cloudflare-dns.com
+#DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflare.com
