@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,chinadsl.net
 # nodeseek论坛
 DOMAIN-SUFFIX,nodeseek.com
 # claw
-DOMAIN-SUFFIX,claw.cloud
+DOMAIN-SUFFIX,claw.cloud,extended-matching
 
 # MIB论坛
 DOMAIN,mibsolution.one
