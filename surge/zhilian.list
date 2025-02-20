@@ -1,6 +1,7 @@
 # 中国广电
 DOMAIN-SUFFIX,10099.com.cn
 #extended-matching
+DOMAIN-SUFFIX,claw.cloud
 # 国内常规网站
 DOMAIN-SUFFIX,910car.com
 # 远景论坛
