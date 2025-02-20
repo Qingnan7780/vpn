@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,10099.com.cn
 #extended-matching
 # 国内常规网站
 DOMAIN-SUFFIX,910car.com
-DOMAIN-SUFFIX,claw.cloud
+DOMAIN,claw.cloud
 # 远景论坛
 DOMAIN-SUFFIX,pcbeta.com
 # 恩山论坛
