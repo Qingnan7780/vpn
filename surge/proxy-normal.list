@@ -49,9 +49,6 @@ DOMAIN,lama-cleaner-docs.vercel.app
 #hostloc论坛
 DOMAIN-SUFFIX,hostloc.com
 
-# 宽带技术
-DOMAIN-SUFFIX,chinadsl.net
-
 # nodeseek论坛
 DOMAIN-SUFFIX,nodeseek.com
 # claw
