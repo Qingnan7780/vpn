@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,10099.com.cn
 #extended-matching
 # 宽带技术
 DOMAIN-SUFFIX,chinadsl.net
+# 汽车网站
+DOMAIN-SUFFIX,drive2.ru
 # 国内常规网站
 DOMAIN-SUFFIX,910car.com
 # 远景论坛
