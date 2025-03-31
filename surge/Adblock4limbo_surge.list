@@ -768,3 +768,5 @@ DOMAIN,118.89.204.198,reject
 # > ZOL
 DOMAIN,apppv.zol.com.cn,reject
 DOMAIN,pvnapp.zol.com.cn,reject
+#高德地图广告屏蔽
+DOMAIN,optimus-ads.amap.com,REJECT
