@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,10099.com.cn
 # 宽带技术
 DOMAIN-SUFFIX,chinadsl.net
 # 汽车网站
-DOMAIN-SUFFIX,drive2.ru
+DOMAIN-SUFFIX,drive2.ru,extended-matching
 DOMAIN-SUFFIX,garageforum.org
 # 国内常规网站
 DOMAIN-SUFFIX,910car.com
