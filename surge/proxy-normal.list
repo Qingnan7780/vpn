@@ -51,8 +51,6 @@ DOMAIN-SUFFIX,hostloc.com
 
 # nodeseek论坛
 DOMAIN-SUFFIX,nodeseek.com
-# claw
-DOMAIN-SUFFIX,claw.cloud
 
 # MIB论坛
 DOMAIN,mibsolution.one
