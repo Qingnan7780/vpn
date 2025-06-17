@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,amap.com
 # 音乐
 DOMAIN-SUFFIX,hifini.com
+# claw
+DOMAIN-SUFFIX,claw.cloud
 
 # 电影
 DOMAIN-SUFFIX,ourbits.club
