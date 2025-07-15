@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,hifini.com
 # claw
 DOMAIN-SUFFIX,claw.cloud
+# 国外插件
+DOMAIN-SUFFIX,babia.to
 
 # 电影
 DOMAIN-SUFFIX,ourbits.club
