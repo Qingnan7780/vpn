@@ -1,7 +1,7 @@
-PROCESS-NAME,mega.privacy.android.app
-DOMAIN-SUFFIX,mega.co.nz
-DOMAIN-SUFFIX,mega.io
-DOMAIN-SUFFIX,mega.nz
+PROCESS-NAME,mega.privacy.android.app,extended-matching
+DOMAIN-SUFFIX,mega.co.nz,extended-matching
+DOMAIN-SUFFIX,mega.io,extended-matching
+DOMAIN-SUFFIX,mega.nz,extended-matching
 IP-CIDR,66.203.126.0/23,no-resolve
 IP-CIDR,94.24.36.0/24,no-resolve
 IP-CIDR,94.24.37.0/24,no-resolve
