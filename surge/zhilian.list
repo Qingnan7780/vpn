@@ -18,7 +18,19 @@ DOMAIN-SUFFIX,hifini.com
 DOMAIN-SUFFIX,claw.cloud
 # 国外插件
 DOMAIN-SUFFIX,babia.to
-
+# 特斯拉
+DOMAIN-SUFFIX,solarcity.com
+DOMAIN-SUFFIX,tesla-cdn.thron.cn
+DOMAIN-SUFFIX,tesla-cdn.thron.com
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,teslamotors.com.cn
+DOMAIN-SUFFIX,teslazta.net
+DOMAIN-SUFFIX,ts.la
 # 电影
 DOMAIN-SUFFIX,ourbits.club
 # 恩山论坛
