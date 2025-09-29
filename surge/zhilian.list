@@ -1,6 +1,8 @@
 # 中国广电
 DOMAIN-SUFFIX,10099.com.cn
 #extended-matching
+# 萤石
+DOMAIN-SUFFIX,ys7.com,extended-matching
 # 宽带技术
 DOMAIN-SUFFIX,chinadsl.net
 # 汽车网站
