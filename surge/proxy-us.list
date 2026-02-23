@@ -271,3 +271,6 @@ DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
+
+# NAME: 谷歌邮箱
+DOMAIN,imap.google.com
