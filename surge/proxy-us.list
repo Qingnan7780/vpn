@@ -274,3 +274,4 @@ DOMAIN-SUFFIX,dockerhub.com
 
 # NAME: 谷歌邮箱
 DOMAIN,imap.google.com
+DOMAIN-SUFFIX,gmail.com
