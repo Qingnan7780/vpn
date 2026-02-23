@@ -273,5 +273,5 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
 
 # NAME: 谷歌邮箱
-DOMAIN,imap.google.com
+DOMAIN,imap.gmail.com
 DOMAIN-SUFFIX,gmail.com
