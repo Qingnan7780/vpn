@@ -256,3 +256,8 @@ DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
 DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
+
+# docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+
