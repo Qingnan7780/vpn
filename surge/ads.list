@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,umeng.com,REJECT
-
 # 首页轮播/底部横幅活动接口（拦截广告数据）
 DOMAIN-SUFFIX,api.ys7.com,REJECT,pre-matching,URL-REGEX,/pc/get_banner
 DOMAIN-SUFFIX,api.ys7.com,REJECT,pre-matching,URL-REGEX,/home/banner
