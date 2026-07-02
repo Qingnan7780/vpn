@@ -1,18 +1,18 @@
 # 首页轮播/底部横幅活动接口（拦截广告数据）
-DOMAIN-SUFFIX,api.ys7.com,REJECT,pre-matching,URL-REGEX,/pc/get_banner
-DOMAIN-SUFFIX,api.ys7.com,REJECT,pre-matching,URL-REGEX,/home/banner
-DOMAIN-SUFFIX,api.ys7.com,REJECT,pre-matching,URL-REGEX,activity/banner
+DOMAIN-SUFFIX,api.ys7.com,REJECT,URL-REGEX,/pc/get_banner
+DOMAIN-SUFFIX,api.ys7.com,REJECT,URL-REGEX,/home/banner
+DOMAIN-SUFFIX,api.ys7.com,REJECT,URL-REGEX,activity/banner
 
 # 广告图cdn资源拦截（防止广告图片缓存显示）
-DOMAIN-SUFFIX,img.ys7.com,REJECT,pre-matching,URL-REGEX,ad|banner|promo
-DOMAIN-SUFFIX,static.ezvizlife.com,REJECT,pre-matching,URL-REGEX,advert
+DOMAIN-SUFFIX,img.ys7.com,REJECT,URL-REGEX,ad|banner|promo
+DOMAIN-SUFFIX,static.ezvizlife.com,REJECT,URL-REGEX,advert
 
 # 原有广告域名保留
-DOMAIN-SUFFIX,ad.ys7.com,REJECT,pre-matching
-DOMAIN-SUFFIX,promotion.ys7.com,REJECT,pre-matching
-DOMAIN-SUFFIX,activity.ys7.com,REJECT,pre-matching
-DOMAIN-SUFFIX,adv.ezvizlife.com,REJECT,pre-matching
-DOMAIN-SUFFIX,ad.eziot.com,REJECT,pre-matching
-DOMAIN-SUFFIX,adv.ys7.com,REJECT,pre-matching
-DOMAIN-SUFFIX,market.ys7.com,REJECT,pre-matching
-DOMAIN-SUFFIX,pop.ys7.com,REJECT,pre-matching
+DOMAIN-SUFFIX,ad.ys7.com,REJECT
+DOMAIN-SUFFIX,promotion.ys7.com,REJECT
+DOMAIN-SUFFIX,activity.ys7.com,REJECT
+DOMAIN-SUFFIX,adv.ezvizlife.com,REJECT
+DOMAIN-SUFFIX,ad.eziot.com,REJECT
+DOMAIN-SUFFIX,adv.ys7.com,REJECT
+DOMAIN-SUFFIX,market.ys7.com,REJECT
+DOMAIN-SUFFIX,pop.ys7.com,REJECT
