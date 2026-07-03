@@ -1,12 +1,12 @@
-首页轮播/底部横幅活动接口（拦截广告数据）
+#首页轮播/底部横幅活动接口（拦截广告数据）
 DOMAIN-SUFFIX,api.ys7.com 
 DOMAIN-SUFFIX,api.ys7.com
 
-广告图cdn资源拦截（防止广告图片缓存显示）
+#广告图cdn资源拦截（防止广告图片缓存显示）
 DOMAIN-SUFFIX,img.ys7.com 
 DOMAIN-SUFFIX,static.ezvizlife.com
 
-原有广告域名保留
+#原有广告域名保留
 DOMAIN-SUFFIX,ad.ys7.com
 DOMAIN-SUFFIX,promotion.ys7.com 
 DOMAIN-SUFFIX,activity.ys7.com 
