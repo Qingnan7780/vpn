@@ -1,57 +1,73 @@
+首页轮播/底部横幅活动接口（拦截广告数据）
+DOMAIN-SUFFIX,api.ys7.com 
+DOMAIN-SUFFIX,api.ys7.com
 
+广告图cdn资源拦截（防止广告图片缓存显示）
+DOMAIN-SUFFIX,img.ys7.com 
+DOMAIN-SUFFIX,static.ezvizlife.com
+
+原有广告域名保留
+DOMAIN-SUFFIX,ad.ys7.com
+DOMAIN-SUFFIX,promotion.ys7.com 
+DOMAIN-SUFFIX,activity.ys7.com 
+DOMAIN-SUFFIX,adv.ezvizlife.com 
+DOMAIN-SUFFIX,ad.eziot.com 
+DOMAIN-SUFFIX,adv.ys7.com
+DOMAIN-SUFFIX,market.ys7.com 
+DOMAIN-SUFFIX,pop.ys7.com
 
 # 联通APP开屏、弹窗、浮窗、钱包推广
-DOMAIN,unicom-ad.yixun.wo.cn,REJECT
-DOMAIN,adapi.10010.com,REJECT
-DOMAIN,adv.10010.com,REJECT
-DOMAIN-SUFFIX,ad.10010.com,REJECT
-DOMAIN-SUFFIX,promotion.10010.com,REJECT
-DOMAIN-SUFFIX,pop.10010.com,REJECT
+DOMAIN,unicom-ad.yixun.wo.cn
+DOMAIN,adapi.10010.com
+DOMAIN,adv.10010.com
+DOMAIN-SUFFIX,ad.10010.com
+DOMAIN-SUFFIX,promotion.10010.com
+DOMAIN-SUFFIX,pop.10010.com
 
 # 通用弹窗/广告联盟（这类站共用广告域名）
-DOMAIN-SUFFIX,adroll.com,REJECT
-DOMAIN-SUFFIX,doubleclick.net,REJECT
-DOMAIN-SUFFIX,adsense.com,REJECT
-DOMAIN-SUFFIX,popads.net,REJECT
-DOMAIN-SUFFIX,propellerads.com,REJECT
-DOMAIN-SUFFIX,exoclick.com,REJECT
-DOMAIN-SUFFIX,juicyads.com,REJECT
-DOMAIN-SUFFIX,mgid.com,REJECT
-DOMAIN-SUFFIX,taboola.com,REJECT
-DOMAIN-SUFFIX,outbrain.com,REJECT
-DOMAIN-SUFFIX,adsterra.com,REJECT
-DOMAIN-SUFFIX,zeropark.com,REJECT
-DOMAIN-SUFFIX,clickadu.com,REJECT
-DOMAIN-SUFFIX,evadav.com,REJECT
-DOMAIN-SUFFIX,trafficstars.com,REJECT
+DOMAIN-SUFFIX,adroll.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,adsense.com
+DOMAIN-SUFFIX,popads.net
+DOMAIN-SUFFIX,propellerads.com
+DOMAIN-SUFFIX,exoclick.com
+DOMAIN-SUFFIX,juicyads.com
+DOMAIN-SUFFIX,mgid.com
+DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,outbrain.com
+DOMAIN-SUFFIX,adsterra.com
+DOMAIN-SUFFIX,zeropark.com
+DOMAIN-SUFFIX,clickadu.com
+DOMAIN-SUFFIX,evadav.com
+DOMAIN-SUFFIX,trafficstars.com
 
 # 截图里出现的赌博广告域名全部拉黑
-DOMAIN-SUFFIX,970.com,REJECT
-DOMAIN-SUFFIX,888.vip,REJECT
-DOMAIN-SUFFIX,shijiebei.bet,REJECT
-DOMAIN-SUFFIX,651.com,REJECT
-DOMAIN-SUFFIX,384.tv,REJECT
-DOMAIN-SUFFIX,177.gg,REJECT
-DOMAIN-SUFFIX,60pg.com,REJECT
-DOMAIN-SUFFIX,365.ag,REJECT
-DOMAIN-SUFFIX,33.live.gg,REJECT
+DOMAIN-SUFFIX,970.com
+DOMAIN-SUFFIX,888.vip
+DOMAIN-SUFFIX,shijiebei.bet
+DOMAIN-SUFFIX,651.com
+DOMAIN-SUFFIX,384.tv
+DOMAIN-SUFFIX,177.gg
+DOMAIN-SUFFIX,60pg.com
+DOMAIN-SUFFIX,365.ag
+DOMAIN-SUFFIX,33.live.gg
 
 # 通用博彩广告联盟
-DOMAIN-SUFFIX,pg电子,REJECT
-DOMAIN-SUFFIX,pg88.com,REJECT
-DOMAIN-SUFFIX,ggbet.com,REJECT
-DOMAIN-SUFFIX,vipgg.com,REJECT
-DOMAIN-SUFFIX,bet,REJECT
+DOMAIN-SUFFIX,pg电子
+DOMAIN-SUFFIX,pg88.com
+DOMAIN-SUFFIX,ggbet.com
+DOMAIN-SUFFIX,vipgg.com
+DOMAIN-SUFFIX,bet
 
 # 色情直播广告域名
-DOMAIN-SUFFIX,p.tv,REJECT
-DOMAIN-SUFFIX,live.gg,REJECT
+DOMAIN-SUFFIX,p.tv
+DOMAIN-SUFFIX,live.gg
 
 # 51cg1自身广告脚本接口
-DOMAIN,ad.shturl.cc,REJECT
-DOMAIN,gg.shturl.cc,REJECT
-DOMAIN,adv.shturl.cc,REJECT
-DOMAIN-SUFFIX,ad.shturl.cc,REJECT
+DOMAIN,ad.shturl.cc
+DOMAIN,gg.shturl.cc
+DOMAIN,adv.shturl.cc
+DOMAIN-SUFFIX,ad.shturl.cc
 
 # 百度翻译广告域名
 DOMAIN-SUFFIX,ad.baidu.com
