@@ -67,3 +67,17 @@ DOMAIN,ad.shturl.cc,REJECT
 DOMAIN,gg.shturl.cc,REJECT
 DOMAIN,adv.shturl.cc,REJECT
 DOMAIN-SUFFIX,ad.shturl.cc,REJECT
+
+# 百度翻译广告域名
+DOMAIN-SUFFIX,ad.baidu.com
+DOMAIN-SUFFIX,ads.baidu.com
+DOMAIN-SUFFIX,adx.baidu.com
+DOMAIN-SUFFIX,duan.baidu.com
+DOMAIN-SUFFIX,sp.baidu.com
+DOMAIN-SUFFIX,feed.baidu.com
+DOMAIN,transad.baidu.com
+DOMAIN,trans.ads.baidu.com
+
+# 百度翻译APP广告关键词
+DOMAIN-KEYWORD,transad
+DOMAIN-KEYWORD,bddfyad
