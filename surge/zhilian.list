@@ -2,10 +2,10 @@
 DOMAIN-SUFFIX,10099.com.cn
 #extended-matching
 # 萤石（必须放最后，防止监控失效）
-DOMAIN-SUFFIX,ys7.com,DIRECT
-DOMAIN-SUFFIX,ezvizlife.com,DIRECT
-DOMAIN-SUFFIX,eziot.com,DIRECT
-DOMAIN-SUFFIX,ezviz.com,DIRECT
+DOMAIN-SUFFIX,ys7.com
+DOMAIN-SUFFIX,ezvizlife.com
+DOMAIN-SUFFIX,eziot.com
+DOMAIN-SUFFIX,ezviz.com
 # 宽带技术
 DOMAIN-SUFFIX,chinadsl.net
 # 汽车网站
