@@ -83,14 +83,11 @@ DOMAIN-KEYWORD,transad
 DOMAIN-KEYWORD,bddfyad
 
 #萤石去广告
-# 萤石广告拦截（仅拦截首页banner活动，不拦截回放、录像接口）
 DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/pc/get_banner$
 DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/home/banner$
 DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/activity/banner$
-# 仅拦截纯广告资源，排除回放缩略图
 DOMAIN-SUFFIX,img.ys7.com,URL-REGEX,/(ad|banner|promo)\.(jpg|png|webp)$
 DOMAIN-SUFFIX,static.ezvizlife.com,URL-REGEX,/advert/
-# 纯广告域名全拦截
 DOMAIN-SUFFIX,ad.ys7.com
 DOMAIN-SUFFIX,promotion.ys7.com
 DOMAIN-SUFFIX,activity.ys7.com
