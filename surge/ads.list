@@ -81,3 +81,18 @@ DOMAIN,trans.ads.baidu.com
 # 百度翻译APP广告关键词
 DOMAIN-KEYWORD,transad
 DOMAIN-KEYWORD,bddfyad
+
+#萤石去广告
+DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,/pc/get_banner
+DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,/home/banner
+DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,activity/banner
+DOMAIN-SUFFIX,img.ys7.com,URL-REGEX,ad|banner|promo
+DOMAIN-SUFFIX,static.ezvizlife.com,URL-REGEX,advert
+DOMAIN-SUFFIX,ad.ys7.com
+DOMAIN-SUFFIX,promotion.ys7.com
+DOMAIN-SUFFIX,activity.ys7.com
+DOMAIN-SUFFIX,adv.ezvizlife.com
+DOMAIN-SUFFIX,ad.eziot.com
+DOMAIN-SUFFIX,adv.ys7.com
+DOMAIN-SUFFIX,market.ys7.com
+DOMAIN-SUFFIX,pop.ys7.com
