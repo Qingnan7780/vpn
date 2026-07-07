@@ -1,21 +1,3 @@
-#首页轮播/底部横幅活动接口（拦截广告数据）
-DOMAIN-SUFFIX,api.ys7.com 
-DOMAIN-SUFFIX,api.ys7.com
-
-#广告图cdn资源拦截（防止广告图片缓存显示）
-DOMAIN-SUFFIX,img.ys7.com 
-DOMAIN-SUFFIX,static.ezvizlife.com
-
-#原有广告域名保留
-DOMAIN-SUFFIX,ad.ys7.com
-DOMAIN-SUFFIX,promotion.ys7.com 
-DOMAIN-SUFFIX,activity.ys7.com 
-DOMAIN-SUFFIX,adv.ezvizlife.com 
-DOMAIN-SUFFIX,ad.eziot.com 
-DOMAIN-SUFFIX,adv.ys7.com
-DOMAIN-SUFFIX,market.ys7.com 
-DOMAIN-SUFFIX,pop.ys7.com
-
 # 联通APP开屏、弹窗、浮窗、钱包推广
 DOMAIN,unicom-ad.yixun.wo.cn
 DOMAIN,adapi.10010.com
