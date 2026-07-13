@@ -95,3 +95,15 @@ DOMAIN-SUFFIX,activity.weidian.com
 DOMAIN-SUFFIX,ad.youzan.com
 DOMAIN-SUFFIX,promo.youzan.com
 DOMAIN-SUFFIX,feed.youzan.com
+
+# 墨迹天气
+DOMAIN,adv.moji.com
+DOMAIN,ad.moji.com
+DOMAIN,ads.moji.com
+DOMAIN,tracking.moji.com
+DOMAIN,stat.moji.com
+DOMAIN,analytics.moji.com
+DOMAIN,moji.umeng.com
+DOMAIN,moji.talkingdata.com
+DOMAIN,adx.moji.com
+DOMAIN,ssp.moji.com
