@@ -68,8 +68,8 @@ DOMAIN-KEYWORD,bddfyad
 # 独立弹窗广告域名，和视频业务完全隔离，不会误伤回放
 DOMAIN-SUFFIX,pop.ys7.com
 DOMAIN-SUFFIX,ad.ys7.com
-#DOMAIN-SUFFIX,promotion.ys7.com
-#DOMAIN-SUFFIX,activity.ys7.com
+DOMAIN-SUFFIX,promotion.ys7.com
+DOMAIN-SUFFIX,activity.ys7.com
 #DOMAIN-SUFFIX,adv.ezvizlife.com
 #DOMAIN-SUFFIX,ad.eziot.com
 #DOMAIN-SUFFIX,adv.ys7.com
