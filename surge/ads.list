@@ -70,8 +70,8 @@ DOMAIN-SUFFIX,pop.ys7.com
 DOMAIN-SUFFIX,ad.ys7.com
 DOMAIN-SUFFIX,promotion.ys7.com
 DOMAIN-SUFFIX,activity.ys7.com
-#DOMAIN-SUFFIX,adv.ezvizlife.com
-#DOMAIN-SUFFIX,ad.eziot.com
+DOMAIN-SUFFIX,adv.ezvizlife.com
+DOMAIN-SUFFIX,ad.eziot.com
 #DOMAIN-SUFFIX,adv.ys7.com
 #DOMAIN-SUFFIX,market.ys7.com
 
