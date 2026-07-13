@@ -84,3 +84,14 @@ URL-REGEX,https://api.ys7.com/.*/activity/banner$,REJECT-TINYGIF
 # 广告图片资源拦截，不影响回放缩略图
 URL-REGEX,https://img.ys7.com/.*/(ad|banner|promo)\.(jpg|png|webp)$,REJECT-TINYGIF
 URL-REGEX,https://static.ezvizlife.com/.*/advert/,REJECT-TINYGIF
+
+# 微店自有广告域名
+DOMAIN-SUFFIX,ad.weidian.com
+DOMAIN-SUFFIX,promo.weidian.com
+DOMAIN-SUFFIX,adv.weidian.com
+DOMAIN-SUFFIX,market.weidian.com
+DOMAIN-SUFFIX,activity.weidian.com
+# 有赞底层广告（微店底层是有赞）
+DOMAIN-SUFFIX,ad.youzan.com
+DOMAIN-SUFFIX,promo.youzan.com
+DOMAIN-SUFFIX,feed.youzan.com
