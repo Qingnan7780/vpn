@@ -76,7 +76,7 @@ DOMAIN-SUFFIX,adv.ys7.com
 DOMAIN-SUFFIX,market.ys7.com
 
 # 仅拦截首页banner广告（精准锚定路径，不碰录像接口）
-#DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/pc/get_banner$
+DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/pc/get_banner$
 #DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/home/banner$
 #DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/activity/banner$
 
