@@ -65,6 +65,7 @@ DOMAIN-KEYWORD,transad
 DOMAIN-KEYWORD,bddfyad
 
 #萤石去广告
+#萤石去广告
 # 独立弹窗广告域名，和视频业务完全隔离，不会误伤回放
 DOMAIN-SUFFIX,pop.ys7.com
 DOMAIN-SUFFIX,ad.ys7.com
@@ -76,10 +77,10 @@ DOMAIN-SUFFIX,adv.ys7.com
 DOMAIN-SUFFIX,market.ys7.com
 
 # 仅拦截首页banner广告（精准锚定路径，不碰录像接口）
-DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/pc/get_banner$
-#DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/home/banner$
-#DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/activity/banner$
+URL-REGEX,https://api.ys7.com/.*/pc/get_banner$,REJECT-TINYGIF
+URL-REGEX,https://api.ys7.com/.*/home/banner$,REJECT-TINYGIF
+URL-REGEX,https://api.ys7.com/.*/activity/banner$,REJECT-TINYGIF
 
 # 广告图片资源拦截，不影响回放缩略图
-#DOMAIN-SUFFIX,img.ys7.com,URL-REGEX,/(ad|banner|promo)\.(jpg|png|webp)$
-#DOMAIN-SUFFIX,static.ezvizlife.com,URL-REGEX,/advert/
+URL-REGEX,https://img.ys7.com/.*/(ad|banner|promo)\.(jpg|png|webp)$,REJECT-TINYGIF
+URL-REGEX,https://static.ezvizlife.com/.*/advert/,REJECT-TINYGIF
