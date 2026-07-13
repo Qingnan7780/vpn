@@ -73,7 +73,7 @@ DOMAIN-SUFFIX,activity.ys7.com
 DOMAIN-SUFFIX,adv.ezvizlife.com
 DOMAIN-SUFFIX,ad.eziot.com
 DOMAIN-SUFFIX,adv.ys7.com
-#DOMAIN-SUFFIX,market.ys7.com
+DOMAIN-SUFFIX,market.ys7.com
 
 # 仅拦截首页banner广告（精准锚定路径，不碰录像接口）
 #DOMAIN-SUFFIX,api.ys7.com,URL-REGEX,^.*/pc/get_banner$
