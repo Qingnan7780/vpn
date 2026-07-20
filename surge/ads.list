@@ -82,7 +82,7 @@ DOMAIN-KEYWORD,bddfyad
 #URL-REGEX,https://api.ys7.com/.*/activity/banner$,REJECT-TINYGIF
 
 # 广告图片资源拦截，不影响回放缩略图
-URL-REGEX,https://img.ys7.com/.*/(ad|banner|promo)\.(jpg|png|webp)$,REJECT-TINYGIF
-URL-REGEX,https://static.ezvizlife.com/.*/advert/,REJECT-TINYGIF
+#URL-REGEX,https://img.ys7.com/.*/(ad|banner|promo)\.(jpg|png|webp)$,REJECT-TINYGIF
+#URL-REGEX,https://static.ezvizlife.com/.*/advert/,REJECT-TINYGIF
 
 
